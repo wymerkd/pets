@@ -1,0 +1,18 @@
+body {
+  background-color: #e0e0eb;
+}
+
+h1 {
+  color: #00ccff;
+  font-family: 'Indie Flower', cursive;
+}
+
+p {
+  font-size: 30px;
+  color: #66cc99;
+}
+
+ul {
+  font-size: 20px;
+  font-family: fantasy;
+}
